@@ -4,6 +4,8 @@
 > 作者：Matt Palmer  
 > 日期：Sep 11, 2026
 
+![Getting Started with Grok Bot](images/hero.jpg)
+
 Grok Bot is an agent with a computer. Learn how to stand one up, chain specialists, and run the workflows I actually use.
 
 Grok Bot is an agent with a computer.
@@ -19,6 +21,10 @@ I recorded a walkthrough if you want to see how I set these up.
 Grok Bot is a personal assistant that can take any action on a computer.
 
 The computer lives in the cloud. It has a desktop, a filesystem, a terminal, and apps. If I click the bot's window, I can use that machine like a remote desktop. The bot has the same access I do.
+
+![Grok Bot's cloud computer](images/cloud-computer.jpg)
+
+*Grok Bot's cloud computer*
 
 Because it has a real computer, I can teach it a workflow by recording a task or by writing a prompt. I asked it to look at Costco and Amazon, add things to my cart, then compare prices, delivery charges, and times.
 
@@ -42,6 +48,10 @@ You can set these in chat or in Settings, top right.
 
 Be as specific as you can. Describe a workflow exactly as you would do it, or record a demo on your screen. Then assume the bot can do hard things AI usually can't.
 
+![Anatomy of a bot, Grocery](images/anatomy.jpg)
+
+*Anatomy of a bot, Grocery*
+
 I call Tech Demos my DevRel bot.
 
 Each weekday it scouts my X bookmarks for new technology, drafts a prompt for a prototype, and asks me to approve it.
@@ -49,6 +59,10 @@ Each weekday it scouts my X bookmarks for new technology, drafts a prompt for a 
 I tweak the prompt, approve it, and the bot starts a Cloud Agent through the Cursor connection. I can open the build in Cursor immediately.
 
 When it's done, the bot sends screenshots or a clip and opens a PR.
+
+![Bot settings](images/settings.jpg)
+
+*Bot settings*
 
 Grok Bot supports the same MCP servers, plugins, and skills as Cursor. I have Gmail, Google Calendar, Google Drive, and others. You can connect multiple accounts per service, so I can look through personal and work email, or check more than one Slack.
 
@@ -62,6 +76,10 @@ There are three ways to talk to a bot.
 2. Routines and triggers: A bot can set its own schedule or listen for events from other apps. It can watch a Slack thread or a GitHub PR.
 3. Other bots: Bots can message each other and trigger each other.
 
+![Routines and triggers](images/routines.jpg)
+
+*Routines and triggers*
+
 ## Permissions and a shared computer
 
 If you log into Amazon on a computer the agent can use, it can technically buy whatever it wants, the same way a human could.
@@ -69,6 +87,10 @@ If you log into Amazon on a computer the agent can use, it can technically buy w
 Bots are kept in check by permissions, a reviewer, and allow/block lists. You write the rules in natural language in Settings > General > Agent. A separate review agent checks proposed actions and can allow, block, or escalate to you. Allow and block lists steer that reviewer. You are trusting the model to follow what you wrote. The work still happens in an isolated environment.
 
 Most of us are used to defining agent rules in code or JSON. With Grok Bot, the rules are a prompt.
+
+![Allow and deny rules](images/permissions.jpg)
+
+*Allow and deny rules*
 
 One more thing: if you log into a site with one bot, every other bot can reach that site too.
 
@@ -81,6 +103,10 @@ You can drop several into a group chat. A weekday routine can route a request th
 My Marketplace bot watches Facebook Marketplace and Craigslist for espresso machines.
 
 When it needs a judgment call, it can ask my Chief of Staff bot.
+
+![Marketplace bot in a chain](images/chain.jpg)
+
+*Marketplace bot in a chain*
 
 ## Four bot workflows I’m loving
 
@@ -98,6 +124,10 @@ I am the annoying coffee guy.
 
 Anything I would do by hand on LinkedIn or X, I give to a bot. Anything I would feel bad about asking an intern to do, I give to a bot.
 
+![X followers in Notion](images/crm.jpg)
+
+*X followers in Notion*
+
 ### Arnold, my fitness bot
 
 I already had a strength training app that I vibe-coded. It took weeks of work. It was useful, but time-consuming, and it still broke routinely. One day I asked, “what if this was a bot?”
@@ -114,6 +144,10 @@ The feedback loop is also faster than the old app. Updates to the logic or behav
 
 If you can decompose an app into inputs, logic, and a datastore, you can probably turn it into a bot. You may find that a better solution than vibe-coded software.
 
+![Arnold, personal training software in chat](images/arnold.jpg)
+
+*Arnold, personal training software in chat*
+
 ### Writing code with Grok Bot
 
 My outer loop agent gathers context from Slack, Notion, GitHub, and docs, then hands a clean prompt to a Cursor cloud agent for the inner loop that actually builds software.
@@ -126,6 +160,10 @@ Mine is an expert on the Cursor codebase, docs, and marketing repos. It writes p
 
 An important distinction: Grok Bot is not writing the code. It is creating the same prompts I would, then sending them to a specialized coding harness that lives inside Cursor.
 
+![Outer loop into Cursor](images/outer-loop.jpg)
+
+*Outer loop into Cursor*
+
 ### Search across Slack, Notion, GitHub
 
 If your company has Notion, Slack, and a wiki, finding things while you answer email is hard.
@@ -135,6 +173,10 @@ I use Cursor Product Expert for product questions and for how the company works.
 I routinely ask Grok Bot how Grok Bot works. It reads the codebase, checks discussion on Slack, scans design docs in Notion, and gets me the answer.
 
 I now ask more questions of Grok Bot than I do of my coworkers! That feels good, because I can respect their time and cut Slack fatigue.
+
+![Search across Slack, Notion, GitHub](images/search.jpg)
+
+*Search across Slack, Notion, GitHub*
 
 ## What’s next
 
