@@ -4,6 +4,7 @@
 
 | 日期 | 标题 | 链接 |
 |------|------|------|
+| 2026-09-24 | GPT2 × 折纸 × 提示词 × 优化 | [md](./2026-09-24-origami-poster.md) · [原帖](https://x.com/xiaoxiaodong01/status/2102772213422477428) |
 | 2026-09-23 | GPT2 × 早安 × 几何 × 月 × 美学提示词 × 2026-09-23 | [md](./2026-09-23-morning-geometry-moon.md) · [原帖](https://x.com/xiaoxiaodong01/status/2102549424153166056) |
 | 2026-09-22 | GPT2 × 拼贴 × 纸 × 美学提示词 × VOL.206 | [md](./2026-09-22-paper-collage-vol206.md) · [原帖](https://x.com/xiaoxiaodong01/status/2102087832332632517) |
 | 2026-09-20 | GPT2 × 博物馆导览海报 × VCR | [md](./2026-09-20-museum-guide-poster.md) · [原帖](https://x.com/xiaoxiaodong01/status/2101602734004953114) |
