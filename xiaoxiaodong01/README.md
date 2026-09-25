@@ -2,15 +2,18 @@
 
 每日精选一篇小小东关于 prompts 的推文，归档于此。
 
+> 账号现已更名为 [@xiaoxiaodong](https://x.com/xiaoxiaodong)（显示名仍为小小东）。本目录名与历史链接保留 `xiaoxiaodong01`。
+
 | 日期 | 标题 | 链接 |
 |------|------|------|
-| 2026-09-24 | GPT2 × 折纸 × 提示词 × 优化 | [md](./2026-09-24-origami-poster.md) · [原帖](https://x.com/xiaoxiaodong01/status/2102772213422477428) |
-| 2026-09-23 | GPT2 × 早安 × 几何 × 月 × 美学提示词 × 2026-09-23 | [md](./2026-09-23-morning-geometry-moon.md) · [原帖](https://x.com/xiaoxiaodong01/status/2102549424153166056) |
-| 2026-09-22 | GPT2 × 拼贴 × 纸 × 美学提示词 × VOL.206 | [md](./2026-09-22-paper-collage-vol206.md) · [原帖](https://x.com/xiaoxiaodong01/status/2102087832332632517) |
-| 2026-09-20 | GPT2 × 博物馆导览海报 × VCR | [md](./2026-09-20-museum-guide-poster.md) · [原帖](https://x.com/xiaoxiaodong01/status/2101602734004953114) |
-| 2026-09-20 | GPT2 × 早安 × 像素 × 多城 | [md](./2026-09-20-morning-pixel-cities.md) · [原帖](https://x.com/xiaoxiaodong01/status/2101475838411813086) |
-| 2026-09-18 | 语文老师国风 PPT 汤底提示词 | [md](./2026-09-18-guofeng-ppt.md) · [原帖](https://x.com/xiaoxiaodong01/status/2100860468583682322) |
-| 2026-09-17 | GPT2 × 点上 × 产品主图 × 尝试 | [md](./2026-09-17-ecommerce-product-hero.md) · [原帖](https://x.com/xiaoxiaodong01/status/2100599522460365258) |
-| 2026-09-16 | GPT2 × 办公 × 贴纸 × 拼贴 × VOL.225 | [md](./2026-09-16-office-sticker-vol225.md) · [原帖](https://x.com/xiaoxiaodong01/status/2100252109870620903) |
-| 2026-09-15 | GPT2 × 头像 × Tibo 同款 × 棕色 × A.001 | [md](./2026-09-15-avatar-tibo-a001.md) · [原帖](https://x.com/xiaoxiaodong01/status/2099758539665490371) |
-| 2026-09-15 | GPT2 × 信息图 × 图鉴 × info.001 | [md](./2026-09-15-info001.md) · [原帖](https://x.com/xiaoxiaodong01/status/2099805155747156451) |
+| 2026-09-24 | GPT2 × 线条 × 色点 × 中秋海报 | [md](./2026-09-24-line-field-midautumn.md) · [原帖](https://x.com/xiaoxiaodong/status/2102995246745550926) |
+| 2026-09-24 | GPT2 × 折纸 × 提示词 × 优化 | [md](./2026-09-24-origami-poster.md) · [原帖](https://x.com/xiaoxiaodong/status/2102772213422477428) |
+| 2026-09-23 | GPT2 × 早安 × 几何 × 月 × 美学提示词 × 2026-09-23 | [md](./2026-09-23-morning-geometry-moon.md) · [原帖](https://x.com/xiaoxiaodong/status/2102549424153166056) |
+| 2026-09-22 | GPT2 × 拼贴 × 纸 × 美学提示词 × VOL.206 | [md](./2026-09-22-paper-collage-vol206.md) · [原帖](https://x.com/xiaoxiaodong/status/2102087832332632517) |
+| 2026-09-20 | GPT2 × 博物馆导览海报 × VCR | [md](./2026-09-20-museum-guide-poster.md) · [原帖](https://x.com/xiaoxiaodong/status/2101602734004953114) |
+| 2026-09-20 | GPT2 × 早安 × 像素 × 多城 | [md](./2026-09-20-morning-pixel-cities.md) · [原帖](https://x.com/xiaoxiaodong/status/2101475838411813086) |
+| 2026-09-18 | 语文老师国风 PPT 汤底提示词 | [md](./2026-09-18-guofeng-ppt.md) · [原帖](https://x.com/xiaoxiaodong/status/2100860468583682322) |
+| 2026-09-17 | GPT2 × 点上 × 产品主图 × 尝试 | [md](./2026-09-17-ecommerce-product-hero.md) · [原帖](https://x.com/xiaoxiaodong/status/2100599522460365258) |
+| 2026-09-16 | GPT2 × 办公 × 贴纸 × 拼贴 × VOL.225 | [md](./2026-09-16-office-sticker-vol225.md) · [原帖](https://x.com/xiaoxiaodong/status/2100252109870620903) |
+| 2026-09-15 | GPT2 × 头像 × Tibo 同款 × 棕色 × A.001 | [md](./2026-09-15-avatar-tibo-a001.md) · [原帖](https://x.com/xiaoxiaodong/status/2099758539665490371) |
+| 2026-09-15 | GPT2 × 信息图 × 图鉴 × info.001 | [md](./2026-09-15-info001.md) · [原帖](https://x.com/xiaoxiaodong/status/2099805155747156451) |
