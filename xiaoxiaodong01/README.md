@@ -6,6 +6,7 @@
 
 | 日期 | 标题 | 链接 |
 |------|------|------|
+| 2026-09-28 | GPT2 × 早安 × 留白 × 斑驳 × 美学提示词 | [md](./2026-09-28-morning-blank-mottle.md) · [原帖](https://x.com/xiaoxiaodong/status/2104366783474102646) |
 | 2026-09-26 | GPT2 × 早安 × 美学提示词 × 旅游城市 | [md](./2026-09-26-morning-tourism-cities.md) · [原帖](https://x.com/xiaoxiaodong/status/2103664631294448045) |
 | 2026-09-24 | GPT2 × 线条 × 色点 × 中秋海报 | [md](./2026-09-24-line-field-midautumn.md) · [原帖](https://x.com/xiaoxiaodong/status/2102995246745550926) |
 | 2026-09-24 | GPT2 × 折纸 × 提示词 × 优化 | [md](./2026-09-24-origami-poster.md) · [原帖](https://x.com/xiaoxiaodong/status/2102772213422477428) |
