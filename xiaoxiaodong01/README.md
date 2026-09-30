@@ -6,6 +6,7 @@
 
 | 日期 | 标题 | 链接 |
 |------|------|------|
+| 2026-09-29 | GPT2 × 转绘 × 氛围像素 × 美学提示词 × VOL.249 | [md](./2026-09-29-atmosphere-pixel-vol249.md) · [原帖](https://x.com/xiaoxiaodong/status/2104943072102728036) |
 | 2026-09-28 | Luna × 婚礼邀请函 × 小窗微型场景提示词 | [md](./2026-09-28-wedding-invitation-miniature.md) · [原帖](https://x.com/xiaoxiaodong/status/2104570921105416589) |
 | 2026-09-28 | GPT2 × 早安 × 留白 × 斑驳 × 美学提示词 | [md](./2026-09-28-morning-blank-mottle.md) · [原帖](https://x.com/xiaoxiaodong/status/2104366783474102646) |
 | 2026-09-26 | GPT2 × 早安 × 美学提示词 × 旅游城市 | [md](./2026-09-26-morning-tourism-cities.md) · [原帖](https://x.com/xiaoxiaodong/status/2103664631294448045) |
