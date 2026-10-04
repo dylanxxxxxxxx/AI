@@ -6,6 +6,7 @@
 
 | 日期 | 标题 | 链接 |
 |------|------|------|
+| 2026-10-03 | GPT-image2.5 × 文字框住画面 × 逻辑 mock 提示词 | [md](./2026-10-03-typography-frame-mock.md) · [原帖](https://x.com/xiaoxiaodong/status/2106247089386897639) |
 | 2026-10-03 | 中文字体 × 手写字形主视觉提示词 | [md](./2026-10-03-handwritten-glyph.md) · [原帖](https://x.com/xiaoxiaodong/status/2106203619423047908) |
 | 2026-09-30 | GPT2 × 寂静单线 × 转绘 × 美学提示词 × VOL.257 | [md](./2026-09-30-silent-monoline-vol257.md) · [原帖](https://x.com/xiaoxiaodong/status/2105297104591827403) |
 | 2026-09-29 | GPT2 × 转绘 × 氛围像素 × 美学提示词 × VOL.249 | [md](./2026-09-29-atmosphere-pixel-vol249.md) · [原帖](https://x.com/xiaoxiaodong/status/2104943072102728036) |
