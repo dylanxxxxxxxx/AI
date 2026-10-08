@@ -6,6 +6,7 @@
 
 | 日期 | 标题 | 链接 |
 |------|------|------|
+| 2026-10-07 | GPT2 × 中英文 × 双版本 × 美学提示词 | [md](./2026-10-07-arch-type-documentary.md) · [原帖](https://x.com/xiaoxiaodong/status/2107835148553388065) |
 | 2026-10-07 | GPT2 × 早安 × 人文 × 水墨 × 美学提示词 | [md](./2026-10-07-morning-humanities-ink.md) · [原帖](https://x.com/xiaoxiaodong/status/2107644369344012451) |
 | 2026-10-06 | GPT2 × 字形穿插 × 实验 × 美学提示词 | [md](./2026-10-06-glyph-interlock.md) · [原帖](https://x.com/xiaoxiaodong/status/2107280057450590665) |
 | 2026-10-03 | GPT-image2.5 × 文字框住画面 × 逻辑 mock 提示词 | [md](./2026-10-03-typography-frame-mock.md) · [原帖](https://x.com/xiaoxiaodong/status/2106247089386897639) |
