@@ -6,6 +6,7 @@
 
 | 日期 | 标题 | 链接 |
 |------|------|------|
+| 2026-10-13 | GPT2 × 早安 × 素 × 美学提示词 | [md](./2026-10-13-morning-plain-oriental.md) · [原帖](https://x.com/xiaoxiaodong/status/2109815827470205041) |
 | 2026-10-12 | GPT2 × 早安 × 简约 × 美学提示词 | [md](./2026-10-12-morning-minimal-oriental.md) · [原帖](https://x.com/xiaoxiaodong/status/2109433828406382655) |
 | 2026-10-11 | GPT2 × 美食 × 产品 × 海报 × 美学提示词 | [md](./2026-10-11-breakfast-food-poster.md) · [原帖](https://x.com/xiaoxiaodong/status/2109091557710426607) |
 | 2026-10-10 | GPT2 × 早安 × 线条字体 × 美学提示词 | [md](./2026-10-10-morning-line-type.md) · [原帖](https://x.com/xiaoxiaodong/status/2108727066707583143) |
