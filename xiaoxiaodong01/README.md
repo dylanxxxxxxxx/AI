@@ -6,6 +6,7 @@
 
 | 日期 | 标题 | 链接 |
 |------|------|------|
+| 2026-10-17 | GPT2 × 早安 × 美学提示词（朦胧流光邀约） | [md](./2026-10-17-morning-flowing-light.md) · [原帖](https://x.com/xiaoxiaodong/status/2111210851097354331) |
 | 2026-10-16 | GPT2 × 模糊 × 早安 × 美学提示词 | [md](./2026-10-16-morning-blur-softfocus.md) · [原帖](https://x.com/xiaoxiaodong/status/2110882848689508679) |
 | 2026-10-15 | GPT2 × 暗底 × 剪影 × 叠加 × 安静 × 温暖 × 美学提示词 | [md](./2026-10-15-dark-silhouette.md) · [原帖](https://x.com/xiaoxiaodong/status/2110337314786578909) |
 | 2026-10-14 | GPT2 × 双重曝光 × 雾感 × 美学提示词 | [md](./2026-10-14-double-exposure-fog.md) · [原帖](https://x.com/xiaoxiaodong/status/2110054322755317957) |
