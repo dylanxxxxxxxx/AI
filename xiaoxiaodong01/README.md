@@ -6,6 +6,7 @@
 
 | 日期 | 标题 | 链接 |
 |------|------|------|
+| 2026-10-22 | GPT2 × 毛玻璃 × 透光 × 棱纹 × 美学提示词 | [md](./2026-10-22-fluted-glass-cover.md) · [原帖](https://x.com/xiaoxiaodong/status/2112953137686523996) |
 | 2026-10-21 | GPT2 × 中央留白 × 清冷诗意 × 排版 × 美学提示词 | [md](./2026-10-21-center-whitespace-poetic.md) · [原帖](https://x.com/xiaoxiaodong/status/2112697054254543067) |
 | 2026-10-20 | GPT2 × 早安 × 线 × 坠 × 美学提示词 | [md](./2026-10-20-morning-line-drop.md) · [原帖](https://x.com/xiaoxiaodong/status/2112345458433736964) |
 | 2026-10-19 | 棱光迷雾 × 雾感海报 × 展览物料（汤底提示词） | [md](./2026-10-19-prism-fog-poster.md) · [原帖](https://x.com/xiaoxiaodong/status/2111837195921408258) |
