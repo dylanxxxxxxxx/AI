@@ -6,6 +6,7 @@
 
 | 日期 | 标题 | 链接 |
 |------|------|------|
+| 2026-10-28 | GPT2 × 早安 × 超大衬线字 × 中央卡片日签 | [md](./2026-10-28-morning-serif-card.md) · [原帖](https://x.com/xiaoxiaodong/status/2115244754183262500) |
 | 2026-10-27 | GPT2 × 字体 × 线描 × 美学提示词 | [md](./2026-10-27-line-glyph-font.md) · [原帖](https://x.com/xiaoxiaodong/status/2114729852725256201) |
 | 2026-10-25 | GPT2 × 早安 × 日签 × 简约 × 美学提示词（巨字 × 细字环绕） | [md](./2026-10-25-daily-sign-giant-glyph.md) · [原帖](https://x.com/xiaoxiaodong/status/2114152879217090909) |
 | 2026-10-24 | 巨大横向字构件 × 垂落字帘 × 博物馆展讯海报 | [md](./2026-10-24-hanging-letter-curtain.md) · [原帖](https://x.com/xiaoxiaodong/status/2113579688388096077) |
