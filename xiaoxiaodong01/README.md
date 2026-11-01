@@ -6,6 +6,7 @@
 
 | 日期 | 标题 | 链接 |
 |------|------|------|
+| 2026-11-01 | GPT2 × 巨物掠景 × 清爽手绘 × 文旅海报 × 美学提示词 | [md](./2026-11-01-giant-glide-travel-poster.md) · [原帖](https://x.com/xiaoxiaodong/status/2116559195818643500) |
 | 2026-10-29 | GPT2 × 早安 × 日签 × 半透明有机表面 × 中央光隙 | [md](./2026-10-29-morning-translucent-gap.md) · [原帖](https://x.com/xiaoxiaodong/status/2115625864830574825) |
 | 2026-10-28 | GPT2 × 早安 × 超大衬线字 × 中央卡片日签 | [md](./2026-10-28-morning-serif-card.md) · [原帖](https://x.com/xiaoxiaodong/status/2115244754183262500) |
 | 2026-10-27 | GPT2 × 字体 × 线描 × 美学提示词 | [md](./2026-10-27-line-glyph-font.md) · [原帖](https://x.com/xiaoxiaodong/status/2114729852725256201) |
