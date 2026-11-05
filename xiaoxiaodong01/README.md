@@ -6,6 +6,7 @@
 
 | 日期 | 标题 | 链接 |
 |------|------|------|
+| 2026-11-05 | GPT2 × 物件剪成剧照窗 × 克制双关 × 剧情电影海报 | [md](./2026-11-05-architectural-melt-wall.md) · [原帖](https://x.com/xiaoxiaodong/status/2117974572171739265) |
 | 2026-11-04 | GPT2 × 横移花影 × 柔雾抒情 × 情绪海报 × 美学提示词 | [md](./2026-11-04-motion-blur-lyric-poster.md) · [原帖](https://x.com/xiaoxiaodong/status/2117200113659686973) |
 | 2026-11-03 | GPT2 × 林间留白 × 清透静谧 × 节气海报 × 美学提示词 | [md](./2026-11-03-forest-whitespace-solar.md) · [原帖](https://x.com/xiaoxiaodong/status/2117430278771859591) |
 | 2026-11-02 | GPT2 × 治愈 × 祝福 × 拱形 × 美学提示词 | [md](./2026-11-02-arch-blessing-healing.md) · [原帖](https://x.com/xiaoxiaodong/status/2116913341994348767) |
