@@ -6,6 +6,7 @@
 
 | 日期 | 标题 | 链接 |
 |------|------|------|
+| 2026-11-12 | GPT2 × 高反差衬线 × 金属连写字 × 时装编辑版面 × 美学提示词 | [md](./2026-11-12-serif-script-editorial.md) · [原帖](https://x.com/xiaoxiaodong/status/2120493395923947529) |
 | 2026-11-09 | GPT2 × 鲜果满顶 × 浓红甜雅 × 电商产品海报 | [md](./2026-11-09-fresh-fruit-crown-poster.md) · [原帖](https://x.com/xiaoxiaodong/status/2119448198091768033) |
 | 2026-11-08 | GPT2 × 早安 × 极简留白 × 手绘线介入 × 轻广告海报 | [md](./2026-11-08-minimal-handdrawn-poster.md) · [原帖](https://x.com/xiaoxiaodong/status/2118914815079112949) |
 | 2026-11-07 | GPT2 × 被注视 × 概念海报 × 美学提示词 | [md](./2026-11-07-watched-concept-poster.md) · [原帖](https://x.com/xiaoxiaodong/status/2118329366430257591) |
