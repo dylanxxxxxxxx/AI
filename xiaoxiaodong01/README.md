@@ -6,6 +6,7 @@
 
 | 日期 | 标题 | 链接 |
 |------|------|------|
+| 2026-11-20 | GPT2 × 商业 × PPT × 字体排印 × 提示词 | [md](./2026-11-20-commercial-ppt.md) · [原帖](https://x.com/xiaoxiaodong/status/2123406536240234991) |
 | 2026-11-19 | GPT2 × 半日叠圆 × 秩序 × 节庆海报 × 提示词 | [md](./2026-11-19-half-disc-festive-poster.md) · [原帖](https://x.com/xiaoxiaodong/status/2122978280970002744) |
 | 2026-11-17 | GPT2 × 午安 × 清透水面 × 城市元素 × 美学提示词 | [md](./2026-11-17-water-surface-city-poster.md) · [原帖](https://x.com/xiaoxiaodong/status/2122173290013958566) |
 | 2026-11-12 | GPT2 × 高反差衬线 × 金属连写字 × 时装编辑版面 × 美学提示词 | [md](./2026-11-12-serif-script-editorial.md) · [原帖](https://x.com/xiaoxiaodong/status/2120493395923947529) |
