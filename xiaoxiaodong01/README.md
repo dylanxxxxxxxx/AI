@@ -6,6 +6,7 @@
 
 | 日期 | 标题 | 链接 |
 |------|------|------|
+| 2026-11-22 | GPT2 × 极简超现实拼贴 × 技巧 × 提示词 × 美学 | [md](./2026-11-22-minimal-surreal-collage.md) · [原帖](https://x.com/xiaoxiaodong/status/2124157540091175127) |
 | 2026-11-21 | 极端留白 × 截断巨字 × 春季新品海报 × 提示词 | [md](./2026-11-21-truncated-glyph-spring-poster.md) · [原帖](https://x.com/xiaoxiaodong/status/2123762573837504541) |
 | 2026-11-20 | GPT2 × 商业 × PPT × 字体排印 × 提示词 | [md](./2026-11-20-commercial-ppt.md) · [原帖](https://x.com/xiaoxiaodong/status/2123406536240234991) |
 | 2026-11-19 | GPT2 × 半日叠圆 × 秩序 × 节庆海报 × 提示词 | [md](./2026-11-19-half-disc-festive-poster.md) · [原帖](https://x.com/xiaoxiaodong/status/2122978280970002744) |
